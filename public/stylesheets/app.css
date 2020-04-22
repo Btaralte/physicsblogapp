@@ -1,0 +1,16 @@
+i.icon {
+    font-size: 2em;
+}
+i.fas{
+    font-size: 2em;
+}
+.ui.main.text.container{
+    margin-top: 7em;
+    max-width: 1000px!important
+}
+#delete{
+    display:inline;
+}
+#navbar{
+    margin-left:  5px!important;
+}
